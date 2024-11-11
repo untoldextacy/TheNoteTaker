@@ -3,8 +3,6 @@
 ## Description
 A simple note-taking application that allows users to write and save notes.
 
-<!-- ## Live Demo
-[Deployed Application Link](YOUR_DEPLOYMENT_URL) -->
 
 ## Installation
 1. Clone the repository.
@@ -14,3 +12,7 @@ A simple note-taking application that allows users to write and save notes.
 ## Usage
 - Navigate to the home page to view notes.
 - Click "Notes" to create or view notes.
+
+# Depolyed Application
+
+[Live Demo](https://thenotetakerch11.onrender.com/)
