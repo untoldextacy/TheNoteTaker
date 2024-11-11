@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-A simple note-taking application that allows users to write and save notes.
+A simple note-taking application that allows users to write, save, and delete notes.
 
 
 ## Installation
